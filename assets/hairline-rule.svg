@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 10" width="1200" height="10" fill="none">
+  <defs>
+    <linearGradient id="monoRule" x1="0" y1="5" x2="1200" y2="5" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="12%" stop-color="#FFFFFF" stop-opacity="0.18" />
+      <stop offset="88%" stop-color="#FFFFFF" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <line x1="0" y1="5" x2="1200" y2="5" stroke="url(#monoRule)" stroke-width="1" />
+</svg>
