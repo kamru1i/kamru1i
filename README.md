@@ -6,21 +6,11 @@
 
 <br /><br />
 
-<a href="https://kamrulislam.me">
-  <img src="https://img.shields.io/badge/Portfolio-kamrulislam.me-0A0A0A?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Portfolio Website" />
-</a>
-<a href="https://www.linkedin.com/in/kamru1i/">
-  <img src="https://img.shields.io/badge/LinkedIn-kamru1i-0A0A0A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&logoColor=FFFFFF" alt="LinkedIn" />
-</a>
-<a href="https://www.youtube.com/@kamru1iYT">
-  <img src="https://img.shields.io/badge/YouTube-@kamru1iYT-0A0A0A?style=flat-square&logo=youtube&logoColor=FFFFFF" alt="YouTube" />
-</a>
-<a href="https://x.com/kamru1i">
-  <img src="https://img.shields.io/badge/X-@kamru1i-0A0A0A?style=flat-square&logo=x&logoColor=FFFFFF" alt="X" />
-</a>
-<a href="mailto:hello@kamrulislam.me">
-  <img src="https://img.shields.io/badge/Email-hello@kamrulislam.me-0A0A0A?style=flat-square&logo=protonmail&logoColor=34D399" alt="Email" />
-</a>
+<a href="https://kamrulislam.me"><img src="https://img.shields.io/badge/Portfolio-kamrulislam.me-0A0A0A?style=flat-square&labelColor=181818&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5NiA4MCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTIgMUgyNlY3OUgyVjFaIi8%2BPHBhdGggZD0iTTI0IDQyTDY2IDFIOTRMNDYgNDZMOTQgNzlINjZMMjQgNDhWNDJaIi8%2BPC9zdmc%2B&logoColor=FFFFFF" alt="Portfolio Website" /></a>
+<a href="https://www.linkedin.com/in/kamru1i/"><img src="https://img.shields.io/badge/LinkedIn-kamru1i-0A0A0A?style=flat-square&labelColor=181818&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@kamru1iYT"><img src="https://img.shields.io/badge/YouTube-@kamru1iYT-0A0A0A?style=flat-square&labelColor=181818&logo=youtube&logoColor=FFFFFF" alt="YouTube" /></a>
+<a href="https://x.com/kamru1i"><img src="https://img.shields.io/badge/X-@kamru1i-0A0A0A?style=flat-square&labelColor=181818&logo=x&logoColor=FFFFFF" alt="X" /></a>
+<a href="mailto:hello@kamrulislam.me"><img src="https://img.shields.io/badge/Email-hello@kamrulislam.me-0A0A0A?style=flat-square&labelColor=181818&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzREMzk5IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8%2BPC9zdmc%2B&logoColor=34D399" alt="Email" /></a>
 
 </div>
 
